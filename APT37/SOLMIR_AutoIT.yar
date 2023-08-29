@@ -1,4 +1,4 @@
-rule APT37_ROKRAT_AutoIT {
+rule APT37_SOLMIR_AutoIT {
     strings:
         $magic_mz = "MZ"
         $magic_pe = "PE\x00\x00"
